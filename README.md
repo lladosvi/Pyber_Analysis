@@ -2,7 +2,7 @@
 
 ## Overview of the analysis: 
 
-We were provided a variety of data related to ridesharing. One of the CVS file had info by city (city, number of drivers and city type), the other one had transactional or ride data (city, date, fare and ride id). Using this data we were asked to conduct some analysis and draw some conslusion. This analysis included:
+We were provided a variety of data related to ridesharing. One of the CVS files has info by city (city, number of drivers and city type), the other one has transactional or ride data (city, date, fare and ride id). Using this data we were asked to conduct some analysis and draw some conslusion. This analysis included:
 (1) calculate the average fare per ride and average fare per driver for each city type
 (2) create a multiple-line graph that shows the total fares for each week by city type
 
