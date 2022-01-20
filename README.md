@@ -27,5 +27,7 @@ In this chart you can see the total fare by city type over time. From these data
 Based on the results above below are a few suggestions on how to reduce the disparity on total fares,  average fares and average fares per driver by city type:
 
 (1) Clearly Urban Markets have an important driver saturation as you can see a low average per ride but even more importantly a very low average fare per driver , so I would first recommend to eliminate any incentives to drivers in this markets with the objective of reducing the count and if that does not work find other ways to be more selective in accepting drivers. 
+
 (2) On the opposite axis clearly total drivers in comparison to rides is low in rural markets, so one hypothesis is that we could be leaving money on the table and rides due to not having enough drivers. So we would recommend to test increasing capacity to see if it leads to a higher overall revenue without significantly impacting the averages per ride and driver.
+
 (3) In line with one of the other theories , the length and duration of trips could be driving the shorter averages in urban locations so maybe trying to implement a fixed fee in addition to the per mile or time fee in urban cities could help elevate those numbers a bit. The idea is to test and see if riders are sensitive to this or not. 
