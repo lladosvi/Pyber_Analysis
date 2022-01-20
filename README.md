@@ -8,7 +8,7 @@ We were provided a variety of data related to ridesharing. One of the CVS files 
 
 In order to accomplish this we used Pandas including the groupby(), count() and sum() funtions for the part (1) and the pivot() and resample() functions for part (2). Finally we used our Matplotlib learnings to create the final chart. 
 
-##Results: 
+## Results: 
 
 The results of the analysis (1) are below:
 
@@ -22,7 +22,7 @@ The results of the analysis (2) are below:
 
 In this chart you can see the total fare by city type over time. From these data you can observe that urban totals are higher than suburban and rural at any point in time, which clearly is driven by more drivers and more rides in these markets. You can also see seasonality of the Total Fares which is pretty stable , we don't observe any major peaks or valleys and any major observable differences across city types. The largest peak seems to be around late Febraury across city types.
 
-Summary: '
+## Summary: '
 
 Based on the results above below are a few suggestions on how to reduce the disparity on total fares,  average fares and average fares per driver by city type:
 
